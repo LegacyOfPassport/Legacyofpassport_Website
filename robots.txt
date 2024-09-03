@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Disallow: /admin/
 Allow: /public/
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://legacyofpassport.com/sitemap.xml
