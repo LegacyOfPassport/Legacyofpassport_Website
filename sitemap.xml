@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://127.0.0.1:5500/</loc>
+        <loc>https://legacyofpassport.com/</loc>
         <lastmod>2024-08-04</lastmod> <!-- Adjust this date as needed -->
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://127.0.0.1:5500/about.html</loc>
+        <loc>https://legacyofpassport.com/about.html</loc>
         <lastmod>2024-08-04</lastmod> <!-- Adjust this date as needed -->
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://127.0.0.1:5500/service.html</loc>
+        <loc>https://legacyofpassport.com/service.html</loc>
         <lastmod>2024-08-04</lastmod> <!-- Adjust this date as needed -->
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://127.0.0.1:5500/contact.html</loc>
+        <loc>https://legacyofpassport.com/contact.html</loc>
         <lastmod>2024-08-04</lastmod> <!-- Adjust this date as needed -->
         <changefreq>yearly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>http://127.0.0.1:5500/countries.html</loc>
+        <loc>https://legacyofpassport.com/countries.html</loc>
         <lastmod>2024-08-04</lastmod> <!-- Adjust this date as needed -->
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
